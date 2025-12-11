@@ -3,7 +3,7 @@
 # Hi 👋, I'm Shiran Supun Dissanayaka
 ### A passionate AI & Machine Learning developer from Sri Lanka
 
-<img align="right" alt="Coding" width="320" src="https://media.gifdb.com/hacker-egghead-coding-lj7znezbwb0nuba4.gif">
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/9e7e054f97008a0e71e75db243d40d2e92b713c13e8f19ac28fc1f216e9345ad/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f70726f6772616d6d65722e676966">
 
 [![Profile views](https://komarev.com/ghpvc/?username=shiran-dissanayaka&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/shiran-dissanayaka)
 
